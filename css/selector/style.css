@@ -1,0 +1,26 @@
+p{
+    color: red;
+}
+
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+
+#button{
+    color: aqua;
+}
+
+
+button:hover{
+    color: yellow;
+}
+
+p:hover{
+    color: aquamarine;
+}
